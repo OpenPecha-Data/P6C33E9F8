@@ -1,0 +1,26 @@
+id: P6C33E9F8
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13367
+  instance_id: http://purl.bdrc.io/resource/IE3JT13367
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: None
+  title:
+    bo:
+    - ས་སྐྱ་བཀའ་འབུམ་ཞུ་བསྡུར་སྐོར་ཉུང་ངུ།
+  alt_title: {}
+  author: None
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    76613d1a195d4024a2936e212a8673c2:
+      title: ཀ་རྟགས།ཚན་གྲངས།ལེ་ཚན་སོ་སོའི་མཚན།རྩོམ་པ་པོ།ཡིག་གཟུགས།ལྡེབ་གྲངས།ལྡེབ་ཚད།ནང་༡འདུལ་བ་རྒྱ་མཚོའི་དཀའ་གནད་མདོར་བསྡུས་པ་ནོར་བུའི་ཕྲེང་བ
+      volume_number: 1
+      base_file: UT3JT13367_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VLF58182967BAF11B4
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:19:59.710283'
+last_modified_at: '2021-12-31T08:19:59.710290'
